@@ -9,6 +9,7 @@
 * [Code](#code)
 * [Feedback](#feedback)
 * [Author](#author)
+* [License](#license)
 
 ## Description
 
@@ -71,13 +72,13 @@ Future features:
 
 ### Bugs And Issues (Work In Progress)
 
-* no bugs that I know of are currently present in the app
+* no currently known bugs are present in the app
 
 ## Feedback
 
 In case you would like to provide feedback, feel free to contact me at peter.roman24[at]gmail.com.
 
-Any feedback is appreciated as I am always trying to improve my skills and work.
+Any feedback is appreciated.
 
 ## Author
 
@@ -86,3 +87,7 @@ This project is created and maintained by me, Peter Roman.
 Connect with me:
 * [GitHub](https://github.com/peterRomanDev)
 * [LinkedIn](https://www.linkedin.com/in/proman2/)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
