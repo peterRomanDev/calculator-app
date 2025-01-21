@@ -15,10 +15,9 @@
 
 A JavaScript calculator capable of adding, subtracting, multiplying and dividing numbers. The app comes with support for decimal numbers as well as chaining operations one after another. Button sound effects are also available.
 
-
 ## How To Use The Calculator App
 
-To start using the Calculator App, all you have to do is to click on this link <https://peterroman.codes/calculator>.
+To start using the Calculator App, all you have to do is to clone the repository by running `git clone https://github.com/peterRomanDev/calculator-app.git` and open the `index.html` file in the browser.
 
 The calculator in the middle of the screen can be used by clicking on the respective buttons.
 
@@ -37,6 +36,7 @@ It also allows you to:
 ## Code
 
 Technologies used:
+
 * HTML
 * CSS
 * Bootstrap
